@@ -1,23 +1,23 @@
 ---
 layout: archive
-title: "Student Research"
-permalink: /student-research/
+title: "Student Alumni"
+permalink: /student-alumni/
 author_profile: true
 ---
 
-Students
+<h2>Students:</h2>
 
-Ph.D. students
+<h3>Ph.D. students</h3>
 
 Jin Huang
 
-M.S. students
+<h3>M.S. students</h3>
 
 Jialun Liu
 
 Nathanial Boland
 
-Alumni
+<h2>Alumni:</h2>
 
 Nathan Jackson, M.S. 2020, "Finding Data Races in Software Binaries with Symbolic Execution". 
 
